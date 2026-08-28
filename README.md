@@ -22,10 +22,7 @@ Hello! My name is **Alexander Torres Vivaldo**. I am a rising senior at **Carneg
 
 ### 💼 Work Experience
 
-- 🏢 **Software Engineering Intern** · JPMorganChase — *Present – 08/2026*
-- 🏢 **Mobile App Development Teaching Assistant** · Carnegie Mellon University – Heinz College — *Incoming Fall*
-- 🏢 **Full-Stack Application Design & Development Teaching Assistant** · Carnegie Mellon University – Heinz College — *01/2026 – 05/2026*
-- 🏢 **Database Design & Development Teaching Assistant** · Carnegie Mellon University – Heinz College — *08/2025 – 12/2025*
+- 🏢 **Software Engineering Intern** · JPMorganChase — *06/2026 – 08/2026*
 - 🏢 **Software Engineering Intern** · Chalfant Run/Thompson Run Watershed Association — *05/2025 – 08/2025*
 - 🏢 **Data Science Research Intern** · Carnegie Mellon University – CIT — *05/2025 – 08/2025*
 
