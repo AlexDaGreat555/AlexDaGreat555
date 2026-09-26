@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Alexander Torres Vivaldo 👋</h1>
 
-<h3 align="center">Rising Senior @ Carnegie Mellon University | Information Systems 🎓</h3>
+<h3 align="center"> Senior @ Carnegie Mellon University | Information Systems 🎓</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.S.+in+Information+Systems+%40+CMU;Minor+in+Software+Engineering;Concentration+in+Information+Security;Always+Learning%2C+Always+Building" alt="Typing SVG" />
@@ -16,7 +16,7 @@
 
 ### About Me
 
-Hello! My name is **Alexander Torres Vivaldo**. I am a rising senior at **Carnegie Mellon University** pursuing a **Bachelor of Science in Information Systems**, with a **minor in Software Engineering** and a **concentration in Information Security**.
+Hello! My name is **Alexander Torres Vivaldo**. I am a  senior at **Carnegie Mellon University** pursuing a **Bachelor of Science in Information Systems**, with a **minor in Software Engineering** and a **concentration in Information Security**.
 
 ---
 
